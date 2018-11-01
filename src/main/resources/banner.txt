@@ -1,0 +1,1 @@
+STARTING Orchestrator ${application.formatted-version}

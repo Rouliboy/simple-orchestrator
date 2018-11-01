@@ -1,0 +1,19 @@
+syntax: glob
+.springBeans
+*.iml
+.idea
+.java-version
+overlays
+.directory
+.settings
+.classpath
+.project
+.externalToolBuilders
+.metadata
+target
+test-output
+
+syntax: regexp
+.*\.log$
+.*\.hprof$
+.*\.*~$
